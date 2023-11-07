@@ -12,9 +12,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikesh8107&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </p>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
@@ -24,7 +26,9 @@
 [![](https://visitcount.itsvg.in/api?id=Vikesh8107&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
+  <p align="center">
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vikesh8107) 
+  </p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
