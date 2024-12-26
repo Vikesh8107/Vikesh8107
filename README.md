@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 <br>
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikesh8107&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 
