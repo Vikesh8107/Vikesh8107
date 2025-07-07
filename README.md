@@ -4,9 +4,8 @@
 💡 Converting ideas & designs into digital reality  
 🔭 Currently mastering: Next.js, TypeScript, AWS, Firebase & React Native  
 💬 Let's discuss: System architecture, UI patterns, or API optimization  
- 
 
----
+
 
 ## 🌐 Social Presence:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikeshlaharpure)
@@ -15,8 +14,6 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Blackcode620)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092804324061)
 
-
----
 
 ## 🛠️ Tech Stack:
 
